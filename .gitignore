@@ -23,15 +23,8 @@ wheels/
 .installed.cfg
 *.egg
 
-# Project specific - generated content
-economics-spanish/original-transcripts/*.pdf
-economics-spanish/spanish-transcripts/*.pdf
-economics-spanish/audio-files/*.mp3
-
-# Keep directory structure
-!economics-spanish/original-transcripts/.gitkeep
-!economics-spanish/spanish-transcripts/.gitkeep
-!economics-spanish/audio-files/.gitkeep
+# Project specific - keep generated content in repo
+# (Files are the work product and should be committed)
 
 # Debugging files
 page_source_debug.html
