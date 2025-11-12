@@ -109,6 +109,30 @@ python generate_audio.py
 python run_pipeline.py --translate --audio
 ```
 
+### Alternative Download Methods
+
+If the Selenium/Playwright web scraping fails, try these alternatives:
+
+**Method 1: Direct URL Pattern (Recommended)**
+
+Transcripts follow a predictable URL pattern:
+```
+https://www.learner.org/wp-content/uploads/YYYY/MM/economics-usa-{topic}-audio-transcript.pdf
+```
+
+Use the URL pattern downloader:
+```bash
+python download_from_url_pattern.py
+# or
+bash download_transcripts_curl.sh
+```
+
+This tries common topic names and date folders to find all transcripts.
+
+**Method 2: Manual Download**
+
+See [MANUAL_DOWNLOAD_GUIDE.md](MANUAL_DOWNLOAD_GUIDE.md) for step-by-step instructions to manually download each transcript and place them in `economics-spanish/original-transcripts/`.
+
 ### Command-Line Options
 
 ```bash
