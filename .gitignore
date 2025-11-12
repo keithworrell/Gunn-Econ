@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Project specific - generated content
+economics-spanish/original-transcripts/*.pdf
+economics-spanish/spanish-transcripts/*.pdf
+economics-spanish/audio-files/*.mp3
+
+# Keep directory structure
+!economics-spanish/original-transcripts/.gitkeep
+!economics-spanish/spanish-transcripts/.gitkeep
+!economics-spanish/audio-files/.gitkeep
+
+# Debugging files
+page_source_debug.html
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
