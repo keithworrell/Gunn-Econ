@@ -20,8 +20,8 @@ export default function ContentViewer({ content }) {
     );
   }
 
-  // Build the file path - files are in parent directory relative to web/
-  const filePath = `/${content.path}`;
+  // Use the path directly from episodes.json (already has leading slash)
+  const filePath = content.path;
 
   return (
     <div className="flex-1 flex flex-col">

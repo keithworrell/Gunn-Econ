@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Test</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/5.4.394/pdf.min.mjs" type="module"></script>
+</head>
+<body>
+    <h1>PDF Loading Test</h1>
+    <div id="status">Loading PDF...</div>
+    <canvas id="pdf-canvas"></canvas>
+
+    <script type="module">
+        const pdfjsLib = window['pdfjs-dist/build/pdf'];
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/5.4.394/pdf.worker.min.mjs';
+
+        const pdfUrl = '/episodes/01-Markets/01-markets-video-spanish.pdf';
+        const statusDiv = document.getElementById('status');
+
+        console.log('Attempting to load PDF from:', pdfUrl);
+        statusDiv.textContent = 'Attempting to load: ' + pdfUrl;
+
+        fetch(pdfUrl)
+            .then(response => {
+                console.log('Fetch response:', response.status, response.statusText);
+                statusDiv.textContent = 'Fetch successful! Status: ' + response.status;
+                return response.arrayBuffer();
+            })
+            .then(data => {
+                console.log('Got PDF data, size:', data.byteLength);
+                statusDiv.textContent = 'PDF loaded! Size: ' + data.byteLength + ' bytes';
+                return pdfjsLib.getDocument({data}).promise;
+            })
+            .then(pdf => {
+                console.log('PDF loaded successfully, pages:', pdf.numPages);
+                statusDiv.textContent = 'PDF loaded successfully! Pages: ' + pdf.numPages;
+                return pdf.getPage(1);
+            })
+            .then(page => {
+                const viewport = page.getViewport({scale: 1});
+                const canvas = document.getElementById('pdf-canvas');
+                const context = canvas.getContext('2d');
+                canvas.height = viewport.height;
+                canvas.width = viewport.width;
+
+                return page.render({
+                    canvasContext: context,
+                    viewport: viewport
+                }).promise;
+            })
+            .then(() => {
+                console.log('Page rendered successfully');
+                statusDiv.textContent = 'PDF rendered successfully!';
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                statusDiv.textContent = 'Error: ' + error.message;
+                statusDiv.style.color = 'red';
+            });
+    </script>
+</body>
+</html>

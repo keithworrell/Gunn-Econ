@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Test</title>
+</head>
+<body>
+    <h1>Audio Loading Test</h1>
+    <div id="status">Loading audio...</div>
+    <audio id="audio-player" controls style="width: 100%; margin-top: 20px;">
+        <source src="/episodes/01-Markets/01-markets-video-spanish-spanish.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+
+    <script>
+        const audio = document.getElementById('audio-player');
+        const statusDiv = document.getElementById('status');
+        const audioUrl = '/episodes/01-Markets/01-markets-video-spanish-spanish.mp3';
+
+        console.log('Audio URL:', audioUrl);
+        statusDiv.textContent = 'Audio URL: ' + audioUrl;
+
+        audio.addEventListener('loadedmetadata', () => {
+            console.log('Audio loaded successfully');
+            console.log('Duration:', audio.duration);
+            statusDiv.textContent = 'Audio loaded! Duration: ' + audio.duration + ' seconds';
+            statusDiv.style.color = 'green';
+        });
+
+        audio.addEventListener('error', (e) => {
+            console.error('Audio error:', e);
+            statusDiv.textContent = 'Error loading audio: ' + audio.error.message;
+            statusDiv.style.color = 'red';
+        });
+
+        // Test direct fetch
+        fetch(audioUrl, { method: 'HEAD' })
+            .then(response => {
+                console.log('HEAD request status:', response.status);
+                console.log('Content-Type:', response.headers.get('content-type'));
+                console.log('Content-Length:', response.headers.get('content-length'));
+            })
+            .catch(error => {
+                console.error('Fetch error:', error);
+            });
+    </script>
+</body>
+</html>

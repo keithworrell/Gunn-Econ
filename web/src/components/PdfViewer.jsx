@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import { Document, Page, pdfjs } from 'react-pdf';
 
-// Configure PDF.js worker
-pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
+// Configure PDF.js worker - use unpkg for better reliability
+pdfjs.GlobalWorkerOptions.workerSrc = `https://unpkg.com/pdfjs-dist@${pdfjs.version}/build/pdf.worker.min.mjs`;
 
 export default function PdfViewer({ filePath }) {
   const [numPages, setNumPages] = useState(null);
