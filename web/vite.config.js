@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
+import { viteStaticCopy } from 'vite-plugin-static-copy'
 import path from 'path'
 import { fileURLToPath } from 'url'
 
@@ -10,31 +11,19 @@ const __dirname = path.dirname(__filename)
 export default defineConfig({
   plugins: [
     react(),
-    {
-      name: 'configure-server',
-      configureServer(server) {
-        // Serve episode files from parent directory
-        server.middlewares.use((req, res, next) => {
-          if (req.url.startsWith('/episodes/')) {
-            const episodePath = req.url.replace('/episodes/', '')
-            req.url = '/@fs/' + path.resolve(__dirname, '..', episodePath)
-          }
-          next()
-        })
-      }
-    }
+    viteStaticCopy({
+      targets: [
+        {
+          src: '../*-*/', // All episode folders
+          dest: 'episodes'
+        }
+      ]
+    })
   ],
   server: {
     fs: {
-      // Allow serving files from parent directory (episode folders)
-      allow: ['..']
+      strict: false
     }
   },
-  publicDir: 'public',
-  resolve: {
-    alias: {
-      '@': path.resolve(__dirname, './src'),
-      '@episodes': path.resolve(__dirname, '..')
-    }
-  }
+  publicDir: 'public'
 })
