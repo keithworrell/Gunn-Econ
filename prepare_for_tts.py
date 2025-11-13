@@ -61,12 +61,25 @@ def convert_vocabulary_table_to_speech(match):
     return "\n".join(speech_parts)
 
 
+def escape_xml(text):
+    """Escape XML special characters."""
+    text = text.replace("&", "&amp;")
+    text = text.replace("<", "&lt;")
+    text = text.replace(">", "&gt;")
+    text = text.replace('"', "&quot;")
+    text = text.replace("'", "&apos;")
+    return text
+
+
 def markdown_to_speech(markdown_content):
     """Convert markdown transcript to speech-optimized text with SSML."""
     content = markdown_content
 
     # Remove page break comments
     content = re.sub(r"<!--.*?-->", "", content)
+
+    # Remove horizontal rule separators (---)
+    content = re.sub(r"^---+\s*$", "", content, flags=re.MULTILINE)
 
     # Convert vocabulary table BEFORE removing emojis (match with or without emoji)
     content = re.sub(
@@ -114,6 +127,9 @@ def markdown_to_speech(markdown_content):
 
     # Clean up multiple breaks
     content = re.sub(r'(<break time="\d+ms"/>[\s\n]*){3,}', '<break time="1s"/>', content)
+
+    # Clean up any leftover empty lines
+    content = re.sub(r'\n\s*\n\s*\n+', '\n\n', content)
 
     # Wrap in SSML speak tag
     ssml = f'<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="es-MX">\n{content}\n</speak>'
