@@ -66,7 +66,7 @@ function generateEpisodesData() {
 
     // Detect and categorize files
     for (const file of files) {
-      const filePath = `episodes/${episode.folder}/${file}`;
+      const filePath = `/episodes/${episode.folder}/${file}`;
 
       if (file.endsWith('-video.pdf')) {
         contents.push({
