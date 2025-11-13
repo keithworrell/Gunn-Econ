@@ -1,0 +1,8 @@
+[
+  {
+    "name": "video-01-supply-and-demand",
+    "input_file": "economics-spanish/markdown-english/video-01-supply-and-demand.md",
+    "output_file": "economics-spanish/markdown-spanish/video-01-supply-and-demand-spanish.md",
+    "prompt": "You are translating an Economics U$A transcript for Spanish-speaking high school ELL students.\n\n# Input\nRead the English transcript from: economics-spanish/markdown-english/video-01-supply-and-demand.md\n\n# Task\n\n1. **Create an ELL-Optimized Header** with these sections (all in Spanish, markdown formatted):\n\n   - **Resumen del Episodio**: 2-3 sentence overview\n   - **Objetivos de Aprendizaje**: 3 bullet points starting with \"Al final de este episodio, podrás...\"\n   - **Vocabulario Clave**:\n     - Table with columns: Término Español | English Term | Definición | Ejemplo en Contexto\n     - Include 5-8 key economic terms\n     - Add a \"Cognados Útiles\" subsection listing Spanish-English cognates\n   - **Conceptos Fundamentales**: 2-3 main concepts, each with:\n     - ¿Qué es?\n     - ¿Por qué importa?\n     - Ejemplo cotidiano\n   - **Conexión con Tu Vida**: 1-2 relatable scenarios\n   - **Preguntas para Reflexionar**: 2 questions before reading, 2 questions after reading\n\n2. **Translate the Transcript**:\n   - Natural, clear Spanish for high school level\n   - Maintain all markdown formatting\n   - Use standard Spanish economic terminology\n   - Keep page break comments like `<!-- Page 2 -->`\n\n3. **Output**: Write the complete markdown (header + transcript) to: economics-spanish/markdown-spanish/video-01-supply-and-demand-spanish.md\n\nUse icons for visual hierarchy: 📚 📖 🎯 🔑 💡 🌎 ❓\n"
+  }
+]

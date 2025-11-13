@@ -4,6 +4,31 @@ Automated pipeline to download, translate, and generate audio from economics vid
 
 **Source:** [Economics U$A: 21st Century Edition - learner.org](https://learner.org/series/economics-ua-21st-century-edition)
 
+---
+
+## ⭐ NEW: Claude-Powered Translation (Recommended)
+
+**Higher quality translations with ELL-optimized learning headers!**
+
+This project now includes a Claude agent-based translation system that produces superior results:
+
+- 📚 **ELL-Optimized Headers**: Each transcript includes vocabulary tables, key concepts, real-world connections, and reflection questions
+- 🎯 **Better Quality**: Claude understands economics concepts and context
+- ⚡ **Parallel Processing**: Translate multiple files simultaneously (5-10x faster)
+- 👨‍🏫 **Teacher-Friendly**: Structured format perfect for non-Spanish-speaking teachers
+
+**See:** [TRANSLATION_WORKFLOW.md](TRANSLATION_WORKFLOW.md) for complete guide
+
+**Quick Start:**
+```bash
+python pdf_to_markdown.py                    # Extract PDFs to markdown
+python translate_orchestrator.py              # Generate translation tasks
+# Ask Claude Code: "Launch Task agents to translate all transcripts in parallel"
+python markdown_to_pdf.py                     # Convert to formatted PDFs
+```
+
+---
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
