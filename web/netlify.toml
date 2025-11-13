@@ -1,0 +1,12 @@
+# Netlify configuration for Economics USA Web Viewer
+
+[build]
+  base = "web"
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Set this in Netlify UI under Site settings > Environment variables:
+# VITE_PUBLIC_URL = https://your-site.netlify.app

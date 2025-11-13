@@ -2,6 +2,24 @@
 
 Comprehensive Spanish translations and audio materials for the Economics U$A 21st Century Edition video series, designed for Spanish-speaking high school students.
 
+## 🌐 Web Viewer
+
+**Interactive web application for browsing all materials:**
+
+```bash
+cd web
+npm install
+npm run dev
+```
+
+Visit `http://localhost:5173` to use the web viewer with:
+- Collapsible episode navigation sidebar
+- Embedded PDF viewer for transcripts
+- Custom audio player for Spanish MP3s
+- Clean, responsive design
+
+See [web/README.md](web/README.md) for more details.
+
 ## 📁 Project Structure
 
 ### Episode Folders
@@ -26,6 +44,13 @@ XX-Episode-Title/
 - `01-markets-video-spanish-spanish.mp3` - Spanish video audio
 - `01-markets-audio-spanish-spanish.mp3` - Spanish audio audio
 
+### Web Application
+
+- **[web/](web/)** - React web viewer for browsing all materials
+  - Modern, responsive interface with episode navigation
+  - Embedded PDF viewer and audio player
+  - See [web/README.md](web/README.md) for setup instructions
+
 ### Archive
 
 - **[.archive/](.archive/)** - Development scripts, documentation, and intermediate files
@@ -35,10 +60,11 @@ XX-Episode-Title/
 
 ## 📊 Coverage
 
-**27 Complete Episodes** (both video and audio transcripts):
+**28 Complete Episodes** (both video and audio transcripts):
 - Markets
 - The Firm
 - Supply and Demand
+- Perfect Competition and Inelastic Demand
 - Monopoly
 - Oligopolies
 - Pollution & the Environment
@@ -65,7 +91,7 @@ XX-Episode-Title/
 
 **Plus:** Economic Efficiency (video transcript only)
 
-**Total:** 53 out of 56 possible transcripts (94.6% complete)
+**Total:** 55 out of 56 possible transcripts (98.2% complete)
 
 ## 🎯 Purpose
 
@@ -77,7 +103,7 @@ This project provides accessible Spanish-language educational materials for Econ
 
 ## 📝 Organization
 
-**27 Episode Folders** organized as `XX-Episode-Title/`
+**28 Episode Folders** organized as `XX-Episode-Title/`
 
 Each folder contains all related materials:
 - Original English transcripts (video + audio PDFs)
@@ -86,7 +112,7 @@ Each folder contains all related materials:
 
 **File naming pattern:** `{episode-number}-{topic-slug}-{type}.{ext}`
 
-Complete episodes have 6 files each. Episode 05 (Economic Efficiency) has only 3 files (video transcript only).
+27 complete episodes have 6 files each. Episode 05 (Economic Efficiency) has only 3 files (video transcript only).
 
 ## 🔗 Original Source
 

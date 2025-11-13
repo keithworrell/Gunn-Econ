@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Economics USA - Spanish Audio Program</title>
+    <description>Spanish audio for Economics USA supplemental audio programs</description>
+    <link>http://localhost:5173</link>
+    <language>es</language>
+    <lastBuildDate>Thu, 13 Nov 2025 06:15:10 GMT</lastBuildDate>
+    <itunes:author>Economics USA Spanish Translation Project</itunes:author>
+    <itunes:summary>Spanish audio for Economics USA supplemental audio programs</itunes:summary>
+    <itunes:category text="Education"/>
+    <item>
+      <title>Episode 1: Markets</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 1: Markets</description>
+      <pubDate>Thu, 13 Nov 2025 04:22:28 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/01-Markets/01-markets-audio-spanish-spanish.mp3" length="12455280" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/01-Markets/01-markets-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>Episode 6: Monopoly</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 6: Monopoly</description>
+      <pubDate>Thu, 13 Nov 2025 04:26:24 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/06-Monopoly/06-monopoly-audio-spanish-spanish.mp3" length="14135616" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/06-Monopoly/06-monopoly-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>Episode 7: Oligopolies</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 7: Oligopolies</description>
+      <pubDate>Thu, 13 Nov 2025 04:27:32 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/07-Oligopolies/07-oligopolies-audio-spanish-spanish.mp3" length="13290624" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/07-Oligopolies/07-oligopolies-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>Episode 11: Reducing Poverty</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 11: Reducing Poverty</description>
+      <pubDate>Thu, 13 Nov 2025 04:32:01 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/11-Reducing-Poverty/11-reducing-poverty-audio-spanish-spanish.mp3" length="14747616" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/11-Reducing-Poverty/11-reducing-poverty-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+    </item>
+    <item>
+      <title>Episode 12: Economic Growth</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 12: Economic Growth</description>
+      <pubDate>Thu, 13 Nov 2025 04:33:03 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/12-Economic-Growth/12-economic-growth-audio-spanish-spanish.mp3" length="13243104" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/12-Economic-Growth/12-economic-growth-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title>Episode 18: Fiscal Policy</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 18: Fiscal Policy</description>
+      <pubDate>Thu, 13 Nov 2025 04:40:05 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/18-Fiscal-Policy/18-fiscal-policy-audio-spanish-spanish.mp3" length="14017536" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/18-Fiscal-Policy/18-fiscal-policy-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <title>Episode 19: Inflation</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 19: Inflation</description>
+      <pubDate>Thu, 13 Nov 2025 04:41:27 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/19-Inflation/19-inflation-audio-spanish-spanish.mp3" length="14611824" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/19-Inflation/19-inflation-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
+      <title>Episode 22: Stagflation</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 22: Stagflation</description>
+      <pubDate>Thu, 13 Nov 2025 04:44:57 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/22-Stagflation/22-stagflation-audio-spanish-spanish.mp3" length="16614288" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/22-Stagflation/22-stagflation-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+    </item>
+    <item>
+      <title>Episode 23: Productivity</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 23: Productivity</description>
+      <pubDate>Thu, 13 Nov 2025 04:46:06 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/23-Productivity/23-productivity-audio-spanish-spanish.mp3" length="14423184" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/23-Productivity/23-productivity-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+    </item>
+    <item>
+      <title>Episode 24: Federal Deficits</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 24: Federal Deficits</description>
+      <pubDate>Thu, 13 Nov 2025 04:47:22 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/24-Federal-Deficits/24-federal-deficits-audio-spanish-spanish.mp3" length="14503392" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/24-Federal-Deficits/24-federal-deficits-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+    </item>
+    <item>
+      <title>Episode 25: Monetary Policy</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 25: Monetary Policy</description>
+      <pubDate>Thu, 13 Nov 2025 04:48:26 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/25-Monetary-Policy/25-monetary-policy-audio-spanish-spanish.mp3" length="14008896" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/25-Monetary-Policy/25-monetary-policy-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+    </item>
+    <item>
+      <title>Episode 27: International Trade</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 27: International Trade</description>
+      <pubDate>Thu, 13 Nov 2025 04:50:52 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/27-International-Trade/27-international-trade-audio-spanish-spanish.mp3" length="13461984" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/27-International-Trade/27-international-trade-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+    </item>
+    <item>
+      <title>Episode 28: Exchange Rates</title>
+      <description>Spanish audio for Economics USA supplemental audio programs - Episode 28: Exchange Rates</description>
+      <pubDate>Thu, 13 Nov 2025 04:52:03 GMT</pubDate>
+      <enclosure url="http://localhost:5173/episodes/28-Exchange-Rates/28-exchange-rates-audio-spanish-spanish.mp3" length="14500368" type="audio/mpeg"/>
+      <guid isPermaLink="true">http://localhost:5173/episodes/28-Exchange-Rates/28-exchange-rates-audio-spanish-spanish.mp3</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+    </item>
+  </channel>
+</rss>

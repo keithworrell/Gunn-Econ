@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Blue circular background -->
+  <circle cx="50" cy="50" r="50" fill="#2563eb"/>
+
+  <!-- White dollar sign -->
+  <g fill="#ffffff" stroke="#ffffff" stroke-width="2">
+    <!-- Top vertical line of $ -->
+    <rect x="47" y="15" width="6" height="12" rx="1"/>
+
+    <!-- S curve of $ -->
+    <path d="M 35 35 Q 35 28 42 26 L 58 26 Q 65 28 65 35 Q 65 42 58 44 L 42 48 Q 35 50 35 57 Q 35 64 42 66 L 58 66 Q 65 64 65 57"
+          fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+
+    <!-- Bottom vertical line of $ -->
+    <rect x="47" y="73" width="6" height="12" rx="1"/>
+  </g>
+
+  <!-- Subtitle arc -->
+  <text x="50" y="95" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">ECONOMICS</text>
+</svg>

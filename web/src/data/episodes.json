@@ -1,0 +1,1295 @@
+[
+  {
+    "id": 1,
+    "number": 1,
+    "title": "Markets",
+    "folder": "01-Markets",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "01-markets-audio-spanish-spanish.mp3",
+        "path": "episodes/01-Markets/01-markets-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "01-markets-audio-spanish.pdf",
+        "path": "episodes/01-Markets/01-markets-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "01-markets-audio.pdf",
+        "path": "episodes/01-Markets/01-markets-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "01-markets-video-spanish-spanish.mp3",
+        "path": "episodes/01-Markets/01-markets-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "01-markets-video-spanish.pdf",
+        "path": "episodes/01-Markets/01-markets-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "01-markets-video.pdf",
+        "path": "episodes/01-Markets/01-markets-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "number": 2,
+    "title": "The Firm",
+    "folder": "02-The-Firm",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "02-firm-audio-spanish-spanish.mp3",
+        "path": "episodes/02-The-Firm/02-firm-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "02-firm-audio-spanish.pdf",
+        "path": "episodes/02-The-Firm/02-firm-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "02-firm-audio.pdf",
+        "path": "episodes/02-The-Firm/02-firm-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "02-firm-video-spanish-spanish.mp3",
+        "path": "episodes/02-The-Firm/02-firm-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "02-firm-video-spanish.pdf",
+        "path": "episodes/02-The-Firm/02-firm-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "02-firm-video.pdf",
+        "path": "episodes/02-The-Firm/02-firm-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "number": 3,
+    "title": "Supply and Demand",
+    "folder": "03-Supply-and-Demand",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "03-supply-demand-audio-spanish-spanish.mp3",
+        "path": "episodes/03-Supply-and-Demand/03-supply-demand-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "03-supply-demand-audio-spanish.pdf",
+        "path": "episodes/03-Supply-and-Demand/03-supply-demand-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "03-supply-demand-audio.pdf",
+        "path": "episodes/03-Supply-and-Demand/03-supply-demand-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "03-supply-demand-video-spanish-spanish.mp3",
+        "path": "episodes/03-Supply-and-Demand/03-supply-demand-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "03-supply-demand-video-spanish.pdf",
+        "path": "episodes/03-Supply-and-Demand/03-supply-demand-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "03-supply-demand-video.pdf",
+        "path": "episodes/03-Supply-and-Demand/03-supply-demand-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "number": 4,
+    "title": "Perfect Competition and Inelastic Demand",
+    "folder": "04-Perfect-Competition-and-Inelastic-Demand",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "04-perfect-competition-inelastic-demand-audio-spanish-spanish.mp3",
+        "path": "episodes/04-Perfect-Competition-and-Inelastic-Demand/04-perfect-competition-inelastic-demand-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "04-perfect-competition-inelastic-demand-audio-spanish.pdf",
+        "path": "episodes/04-Perfect-Competition-and-Inelastic-Demand/04-perfect-competition-inelastic-demand-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "04-perfect-competition-inelastic-demand-audio.pdf",
+        "path": "episodes/04-Perfect-Competition-and-Inelastic-Demand/04-perfect-competition-inelastic-demand-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "04-perfect-competition-inelastic-demand-video-spanish-spanish.mp3",
+        "path": "episodes/04-Perfect-Competition-and-Inelastic-Demand/04-perfect-competition-inelastic-demand-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "04-perfect-competition-inelastic-demand-video-spanish.pdf",
+        "path": "episodes/04-Perfect-Competition-and-Inelastic-Demand/04-perfect-competition-inelastic-demand-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "04-perfect-competition-inelastic-demand-video.pdf",
+        "path": "episodes/04-Perfect-Competition-and-Inelastic-Demand/04-perfect-competition-inelastic-demand-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "number": 5,
+    "title": "Economic Efficiency",
+    "folder": "05-Economic-Efficiency",
+    "contents": [
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "05-economic-efficiency-video-spanish-spanish.mp3",
+        "path": "episodes/05-Economic-Efficiency/05-economic-efficiency-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "05-economic-efficiency-video-spanish.pdf",
+        "path": "episodes/05-Economic-Efficiency/05-economic-efficiency-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "05-economic-efficiency-video.pdf",
+        "path": "episodes/05-Economic-Efficiency/05-economic-efficiency-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "number": 6,
+    "title": "Monopoly",
+    "folder": "06-Monopoly",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "06-monopoly-audio-spanish-spanish.mp3",
+        "path": "episodes/06-Monopoly/06-monopoly-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "06-monopoly-audio-spanish.pdf",
+        "path": "episodes/06-Monopoly/06-monopoly-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "06-monopoly-audio.pdf",
+        "path": "episodes/06-Monopoly/06-monopoly-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "06-monopoly-video-spanish-spanish.mp3",
+        "path": "episodes/06-Monopoly/06-monopoly-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "06-monopoly-video-spanish.pdf",
+        "path": "episodes/06-Monopoly/06-monopoly-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "06-monopoly-video.pdf",
+        "path": "episodes/06-Monopoly/06-monopoly-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "number": 7,
+    "title": "Oligopolies",
+    "folder": "07-Oligopolies",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "07-oligopolies-audio-spanish-spanish.mp3",
+        "path": "episodes/07-Oligopolies/07-oligopolies-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "07-oligopolies-audio-spanish.pdf",
+        "path": "episodes/07-Oligopolies/07-oligopolies-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "07-oligopolies-audio.pdf",
+        "path": "episodes/07-Oligopolies/07-oligopolies-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "07-oligopolies-video-spanish-spanish.mp3",
+        "path": "episodes/07-Oligopolies/07-oligopolies-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "07-oligopolies-video-spanish.pdf",
+        "path": "episodes/07-Oligopolies/07-oligopolies-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "07-oligopolies-video.pdf",
+        "path": "episodes/07-Oligopolies/07-oligopolies-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "number": 8,
+    "title": "Pollution & the Environment",
+    "folder": "08-Pollution-and-Environment",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "08-pollution-environment-audio-spanish-spanish.mp3",
+        "path": "episodes/08-Pollution-and-Environment/08-pollution-environment-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "08-pollution-environment-audio-spanish.pdf",
+        "path": "episodes/08-Pollution-and-Environment/08-pollution-environment-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "08-pollution-environment-audio.pdf",
+        "path": "episodes/08-Pollution-and-Environment/08-pollution-environment-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "08-pollution-environment-video-spanish-spanish.mp3",
+        "path": "episodes/08-Pollution-and-Environment/08-pollution-environment-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "08-pollution-environment-video-spanish.pdf",
+        "path": "episodes/08-Pollution-and-Environment/08-pollution-environment-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "08-pollution-environment-video.pdf",
+        "path": "episodes/08-Pollution-and-Environment/08-pollution-environment-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "number": 9,
+    "title": "Labor and Management",
+    "folder": "09-Labor-and-Management",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "09-labor-management-audio-spanish-spanish.mp3",
+        "path": "episodes/09-Labor-and-Management/09-labor-management-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "09-labor-management-audio-spanish.pdf",
+        "path": "episodes/09-Labor-and-Management/09-labor-management-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "09-labor-management-audio.pdf",
+        "path": "episodes/09-Labor-and-Management/09-labor-management-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "09-labor-management-video-spanish-spanish.mp3",
+        "path": "episodes/09-Labor-and-Management/09-labor-management-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "09-labor-management-video-spanish.pdf",
+        "path": "episodes/09-Labor-and-Management/09-labor-management-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "09-labor-management-video.pdf",
+        "path": "episodes/09-Labor-and-Management/09-labor-management-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "number": 10,
+    "title": "Profits and Interest",
+    "folder": "10-Profits-and-Interest",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "10-profits-interest-audio-spanish-spanish.mp3",
+        "path": "episodes/10-Profits-and-Interest/10-profits-interest-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "10-profits-interest-audio-spanish.pdf",
+        "path": "episodes/10-Profits-and-Interest/10-profits-interest-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "10-profits-interest-audio.pdf",
+        "path": "episodes/10-Profits-and-Interest/10-profits-interest-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "10-profits-interest-video-spanish-spanish.mp3",
+        "path": "episodes/10-Profits-and-Interest/10-profits-interest-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "10-profits-interest-video-spanish.pdf",
+        "path": "episodes/10-Profits-and-Interest/10-profits-interest-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "10-profits-interest-video.pdf",
+        "path": "episodes/10-Profits-and-Interest/10-profits-interest-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "number": 11,
+    "title": "Reducing Poverty",
+    "folder": "11-Reducing-Poverty",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "11-reducing-poverty-audio-spanish-spanish.mp3",
+        "path": "episodes/11-Reducing-Poverty/11-reducing-poverty-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "11-reducing-poverty-audio-spanish.pdf",
+        "path": "episodes/11-Reducing-Poverty/11-reducing-poverty-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "11-reducing-poverty-audio.pdf",
+        "path": "episodes/11-Reducing-Poverty/11-reducing-poverty-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "11-reducing-poverty-video-spanish-spanish.mp3",
+        "path": "episodes/11-Reducing-Poverty/11-reducing-poverty-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "11-reducing-poverty-video-spanish.pdf",
+        "path": "episodes/11-Reducing-Poverty/11-reducing-poverty-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "11-reducing-poverty-video.pdf",
+        "path": "episodes/11-Reducing-Poverty/11-reducing-poverty-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "number": 12,
+    "title": "Economic Growth",
+    "folder": "12-Economic-Growth",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "12-economic-growth-audio-spanish-spanish.mp3",
+        "path": "episodes/12-Economic-Growth/12-economic-growth-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "12-economic-growth-audio-spanish.pdf",
+        "path": "episodes/12-Economic-Growth/12-economic-growth-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "12-economic-growth-audio.pdf",
+        "path": "episodes/12-Economic-Growth/12-economic-growth-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "12-economic-growth-video-spanish-spanish.mp3",
+        "path": "episodes/12-Economic-Growth/12-economic-growth-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "12-economic-growth-video-spanish.pdf",
+        "path": "episodes/12-Economic-Growth/12-economic-growth-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "12-economic-growth-video.pdf",
+        "path": "episodes/12-Economic-Growth/12-economic-growth-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "number": 13,
+    "title": "Public Goods and Responsibilities",
+    "folder": "13-Public-Goods-and-Responsibilities",
+    "contents": []
+  },
+  {
+    "id": 14,
+    "number": 14,
+    "title": "Resources and Scarcity",
+    "folder": "14-Resources-and-Scarcity",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "14-resources-scarcity-audio-spanish-spanish.mp3",
+        "path": "episodes/14-Resources-and-Scarcity/14-resources-scarcity-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "14-resources-scarcity-audio-spanish.pdf",
+        "path": "episodes/14-Resources-and-Scarcity/14-resources-scarcity-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "14-resources-scarcity-audio.pdf",
+        "path": "episodes/14-Resources-and-Scarcity/14-resources-scarcity-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "14-resources-scarcity-video-spanish-spanish.mp3",
+        "path": "episodes/14-Resources-and-Scarcity/14-resources-scarcity-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "14-resources-scarcity-video-spanish.pdf",
+        "path": "episodes/14-Resources-and-Scarcity/14-resources-scarcity-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "14-resources-scarcity-video.pdf",
+        "path": "episodes/14-Resources-and-Scarcity/14-resources-scarcity-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "number": 15,
+    "title": "GDP/GNP",
+    "folder": "15-GDP-GNP",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "15-gnp-gdp-audio-spanish-spanish.mp3",
+        "path": "episodes/15-GDP-GNP/15-gnp-gdp-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "15-gnp-gdp-audio-spanish.pdf",
+        "path": "episodes/15-GDP-GNP/15-gnp-gdp-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "15-gnp-gdp-audio.pdf",
+        "path": "episodes/15-GDP-GNP/15-gnp-gdp-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "15-gnp-gdp-video-spanish-spanish.mp3",
+        "path": "episodes/15-GDP-GNP/15-gnp-gdp-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "15-gnp-gdp-video-spanish.pdf",
+        "path": "episodes/15-GDP-GNP/15-gnp-gdp-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "15-gnp-gdp-video.pdf",
+        "path": "episodes/15-GDP-GNP/15-gnp-gdp-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "number": 16,
+    "title": "Boom and Bust",
+    "folder": "16-Boom-and-Bust",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "16-boom-bust-audio-spanish-spanish.mp3",
+        "path": "episodes/16-Boom-and-Bust/16-boom-bust-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "16-boom-bust-audio-spanish.pdf",
+        "path": "episodes/16-Boom-and-Bust/16-boom-bust-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "16-boom-bust-audio.pdf",
+        "path": "episodes/16-Boom-and-Bust/16-boom-bust-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "16-boom-bust-video-spanish-spanish.mp3",
+        "path": "episodes/16-Boom-and-Bust/16-boom-bust-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "16-boom-bust-video-spanish.pdf",
+        "path": "episodes/16-Boom-and-Bust/16-boom-bust-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "16-boom-bust-video.pdf",
+        "path": "episodes/16-Boom-and-Bust/16-boom-bust-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "number": 17,
+    "title": "The Great Depression and the Keynesian Revolution",
+    "folder": "17-The-Great-Depression-and-the-Keynesian-Revolution",
+    "contents": []
+  },
+  {
+    "id": 18,
+    "number": 18,
+    "title": "Fiscal Policy",
+    "folder": "18-Fiscal-Policy",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "18-fiscal-policy-audio-spanish-spanish.mp3",
+        "path": "episodes/18-Fiscal-Policy/18-fiscal-policy-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "18-fiscal-policy-audio-spanish.pdf",
+        "path": "episodes/18-Fiscal-Policy/18-fiscal-policy-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "18-fiscal-policy-audio.pdf",
+        "path": "episodes/18-Fiscal-Policy/18-fiscal-policy-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "18-fiscal-policy-video-spanish-spanish.mp3",
+        "path": "episodes/18-Fiscal-Policy/18-fiscal-policy-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "18-fiscal-policy-video-spanish.pdf",
+        "path": "episodes/18-Fiscal-Policy/18-fiscal-policy-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "18-fiscal-policy-video.pdf",
+        "path": "episodes/18-Fiscal-Policy/18-fiscal-policy-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "number": 19,
+    "title": "Inflation",
+    "folder": "19-Inflation",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "19-inflation-audio-spanish-spanish.mp3",
+        "path": "episodes/19-Inflation/19-inflation-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "19-inflation-audio-spanish.pdf",
+        "path": "episodes/19-Inflation/19-inflation-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "19-inflation-audio.pdf",
+        "path": "episodes/19-Inflation/19-inflation-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "19-inflation-video-spanish-spanish.mp3",
+        "path": "episodes/19-Inflation/19-inflation-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "19-inflation-video-spanish.pdf",
+        "path": "episodes/19-Inflation/19-inflation-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "19-inflation-video.pdf",
+        "path": "episodes/19-Inflation/19-inflation-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "number": 20,
+    "title": "The Banking System",
+    "folder": "20-The-Banking-System",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "20-banking-system-audio-spanish-spanish.mp3",
+        "path": "episodes/20-The-Banking-System/20-banking-system-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "20-banking-system-audio-spanish.pdf",
+        "path": "episodes/20-The-Banking-System/20-banking-system-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "20-banking-system-audio.pdf",
+        "path": "episodes/20-The-Banking-System/20-banking-system-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "20-banking-system-video-spanish-spanish.mp3",
+        "path": "episodes/20-The-Banking-System/20-banking-system-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "20-banking-system-video-spanish.pdf",
+        "path": "episodes/20-The-Banking-System/20-banking-system-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "20-banking-system-video.pdf",
+        "path": "episodes/20-The-Banking-System/20-banking-system-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "number": 21,
+    "title": "The Federal Reserve",
+    "folder": "21-The-Federal-Reserve",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "21-federal-reserve-audio-spanish-spanish.mp3",
+        "path": "episodes/21-The-Federal-Reserve/21-federal-reserve-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "21-federal-reserve-audio-spanish.pdf",
+        "path": "episodes/21-The-Federal-Reserve/21-federal-reserve-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "21-federal-reserve-audio.pdf",
+        "path": "episodes/21-The-Federal-Reserve/21-federal-reserve-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "21-federal-reserve-video-spanish-spanish.mp3",
+        "path": "episodes/21-The-Federal-Reserve/21-federal-reserve-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "21-federal-reserve-video-spanish.pdf",
+        "path": "episodes/21-The-Federal-Reserve/21-federal-reserve-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "21-federal-reserve-video.pdf",
+        "path": "episodes/21-The-Federal-Reserve/21-federal-reserve-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "number": 22,
+    "title": "Stagflation",
+    "folder": "22-Stagflation",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "22-stagflation-audio-spanish-spanish.mp3",
+        "path": "episodes/22-Stagflation/22-stagflation-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "22-stagflation-audio-spanish.pdf",
+        "path": "episodes/22-Stagflation/22-stagflation-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "22-stagflation-audio.pdf",
+        "path": "episodes/22-Stagflation/22-stagflation-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "22-stagflation-video-spanish-spanish.mp3",
+        "path": "episodes/22-Stagflation/22-stagflation-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "22-stagflation-video-spanish.pdf",
+        "path": "episodes/22-Stagflation/22-stagflation-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "22-stagflation-video.pdf",
+        "path": "episodes/22-Stagflation/22-stagflation-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "number": 23,
+    "title": "Productivity",
+    "folder": "23-Productivity",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "23-productivity-audio-spanish-spanish.mp3",
+        "path": "episodes/23-Productivity/23-productivity-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "23-productivity-audio-spanish.pdf",
+        "path": "episodes/23-Productivity/23-productivity-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "23-productivity-audio.pdf",
+        "path": "episodes/23-Productivity/23-productivity-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "23-productivity-video-spanish-spanish.mp3",
+        "path": "episodes/23-Productivity/23-productivity-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "23-productivity-video-spanish.pdf",
+        "path": "episodes/23-Productivity/23-productivity-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "23-productivity-video.pdf",
+        "path": "episodes/23-Productivity/23-productivity-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "number": 24,
+    "title": "Federal Deficits",
+    "folder": "24-Federal-Deficits",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "24-federal-deficits-audio-spanish-spanish.mp3",
+        "path": "episodes/24-Federal-Deficits/24-federal-deficits-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "24-federal-deficits-audio-spanish.pdf",
+        "path": "episodes/24-Federal-Deficits/24-federal-deficits-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "24-federal-deficits-audio.pdf",
+        "path": "episodes/24-Federal-Deficits/24-federal-deficits-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "24-federal-deficits-video-spanish-spanish.mp3",
+        "path": "episodes/24-Federal-Deficits/24-federal-deficits-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "24-federal-deficits-video-spanish.pdf",
+        "path": "episodes/24-Federal-Deficits/24-federal-deficits-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "24-federal-deficits-video.pdf",
+        "path": "episodes/24-Federal-Deficits/24-federal-deficits-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "number": 25,
+    "title": "Monetary Policy",
+    "folder": "25-Monetary-Policy",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "25-monetary-policy-audio-spanish-spanish.mp3",
+        "path": "episodes/25-Monetary-Policy/25-monetary-policy-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "25-monetary-policy-audio-spanish.pdf",
+        "path": "episodes/25-Monetary-Policy/25-monetary-policy-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "25-monetary-policy-audio.pdf",
+        "path": "episodes/25-Monetary-Policy/25-monetary-policy-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "25-monetary-policy-video-spanish-spanish.mp3",
+        "path": "episodes/25-Monetary-Policy/25-monetary-policy-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "25-monetary-policy-video-spanish.pdf",
+        "path": "episodes/25-Monetary-Policy/25-monetary-policy-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "25-monetary-policy-video.pdf",
+        "path": "episodes/25-Monetary-Policy/25-monetary-policy-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "number": 26,
+    "title": "Stabilization Policy",
+    "folder": "26-Stabilization-Policy",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "26-stabilization-audio-spanish-spanish.mp3",
+        "path": "episodes/26-Stabilization-Policy/26-stabilization-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "26-stabilization-audio-spanish.pdf",
+        "path": "episodes/26-Stabilization-Policy/26-stabilization-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "26-stabilization-audio.pdf",
+        "path": "episodes/26-Stabilization-Policy/26-stabilization-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "26-stabilization-video-spanish-spanish.mp3",
+        "path": "episodes/26-Stabilization-Policy/26-stabilization-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "26-stabilization-video-spanish.pdf",
+        "path": "episodes/26-Stabilization-Policy/26-stabilization-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "26-stabilization-video.pdf",
+        "path": "episodes/26-Stabilization-Policy/26-stabilization-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "number": 27,
+    "title": "International Trade",
+    "folder": "27-International-Trade",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "27-international-trade-audio-spanish-spanish.mp3",
+        "path": "episodes/27-International-Trade/27-international-trade-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "27-international-trade-audio-spanish.pdf",
+        "path": "episodes/27-International-Trade/27-international-trade-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "27-international-trade-audio.pdf",
+        "path": "episodes/27-International-Trade/27-international-trade-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "27-international-trade-video-spanish-spanish.mp3",
+        "path": "episodes/27-International-Trade/27-international-trade-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "27-international-trade-video-spanish.pdf",
+        "path": "episodes/27-International-Trade/27-international-trade-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "27-international-trade-video.pdf",
+        "path": "episodes/27-International-Trade/27-international-trade-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "number": 28,
+    "title": "Exchange Rates",
+    "folder": "28-Exchange-Rates",
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "28-exchange-rates-audio-spanish-spanish.mp3",
+        "path": "episodes/28-Exchange-Rates/28-exchange-rates-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "28-exchange-rates-audio-spanish.pdf",
+        "path": "episodes/28-Exchange-Rates/28-exchange-rates-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "28-exchange-rates-audio.pdf",
+        "path": "episodes/28-Exchange-Rates/28-exchange-rates-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "28-exchange-rates-video-spanish-spanish.mp3",
+        "path": "episodes/28-Exchange-Rates/28-exchange-rates-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "28-exchange-rates-video-spanish.pdf",
+        "path": "episodes/28-Exchange-Rates/28-exchange-rates-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "28-exchange-rates-video.pdf",
+        "path": "episodes/28-Exchange-Rates/28-exchange-rates-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
+  }
+]
