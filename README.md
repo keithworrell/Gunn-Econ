@@ -4,19 +4,27 @@ Comprehensive Spanish translations and audio materials for the Economics U$A 21s
 
 ## 📁 Project Structure
 
-### Main Folders
+### Episode Folders
 
-- **[original-transcripts/](original-transcripts/)** - English PDF transcripts from learner.org (53 files)
-  - Video transcripts: Complete narration of each episode
-  - Audio transcripts: Supplemental audio program content
+Each episode has its own folder containing 6 files (or 3 for episodes with partial content):
 
-- **[spanish-transcripts/](spanish-transcripts/)** - Spanish-translated PDF transcripts (53 files)
-  - Professional translations optimized for English Language Learners
-  - Maintains original formatting and structure
+```
+XX-Episode-Title/
+├── XX-episode-title-video.pdf                    # English video transcript
+├── XX-episode-title-audio.pdf                    # English audio transcript
+├── XX-episode-title-video-spanish.pdf            # Spanish video transcript
+├── XX-episode-title-audio-spanish.pdf            # Spanish audio transcript
+├── XX-episode-title-video-spanish-spanish.mp3    # Spanish video audio
+└── XX-episode-title-audio-spanish-spanish.mp3    # Spanish audio audio
+```
 
-- **[audio-files/](audio-files/)** - Spanish text-to-speech MP3 files (53 files)
-  - High-quality Spanish audio for each transcript
-  - Accessibility support for auditory learners
+**Example:** [01-Markets/](01-Markets/)
+- `01-markets-video.pdf` - English video transcript
+- `01-markets-audio.pdf` - English audio transcript
+- `01-markets-video-spanish.pdf` - Spanish video transcript
+- `01-markets-audio-spanish.pdf` - Spanish audio transcript
+- `01-markets-video-spanish-spanish.mp3` - Spanish video audio
+- `01-markets-audio-spanish-spanish.mp3` - Spanish audio audio
 
 ### Archive
 
@@ -67,17 +75,18 @@ This project provides accessible Spanish-language educational materials for Econ
 - English Language Learner (ELL) support
 - Accessibility through both written and audio formats
 
-## 📝 File Naming Convention
+## 📝 Organization
 
-All files follow a consistent naming pattern:
-```
-{episode-number}-{topic-slug}-{type}.{ext}
+**27 Episode Folders** organized as `XX-Episode-Title/`
 
-Examples:
-01-markets-video.pdf          (English video transcript)
-01-markets-video-spanish.pdf  (Spanish video transcript)
-01-markets-video-spanish-spanish.mp3  (Spanish audio)
-```
+Each folder contains all related materials:
+- Original English transcripts (video + audio PDFs)
+- Spanish translations (video + audio PDFs)
+- Spanish audio files (video + audio MP3s)
+
+**File naming pattern:** `{episode-number}-{topic-slug}-{type}.{ext}`
+
+Complete episodes have 6 files each. Episode 05 (Economic Efficiency) has only 3 files (video transcript only).
 
 ## 🔗 Original Source
 
