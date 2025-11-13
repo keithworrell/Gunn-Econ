@@ -81,6 +81,17 @@ def markdown_to_speech(markdown_content):
     # Remove horizontal rule separators (---)
     content = re.sub(r"^---+\s*$", "", content, flags=re.MULTILINE)
 
+    # Fix special text for better TTS pronunciation
+    content = content.replace("U$A", "USA")  # Economics USA
+    content = content.replace("Economics USA", "Economics U S A")  # Spell it out
+    content = content.replace("ECONOMICS USA", "ECONOMICS U S A")
+
+    # Fix dollar amounts - add space after $ for better pronunciation
+    content = re.sub(r'\$(\d)', r'$ \1', content)
+
+    # Fix hashtag numbers - they should be read as "number" not "hashtag"
+    content = re.sub(r'#(\d+)', r'número \1', content)
+
     # Convert vocabulary table BEFORE removing emojis (match with or without emoji)
     content = re.sub(
         r"##\s+(?:🔑\s+)?Vocabulario Clave\s*\n\n\|.*?\n\|[-:\s|]+\n(\|.*?\n)+",
