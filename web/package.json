@@ -4,9 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "link-episodes": "node scripts/link-episodes.js",
     "generate-data": "node scripts/generate-episodes-data.js && node scripts/generate-rss-feeds.js",
-    "dev": "npm run generate-data && vite",
-    "build": "npm run generate-data && vite build",
+    "dev": "npm run link-episodes && npm run generate-data && vite",
+    "build": "npm run link-episodes && npm run generate-data && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
