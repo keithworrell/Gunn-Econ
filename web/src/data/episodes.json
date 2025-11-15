@@ -583,7 +583,50 @@
     "number": 13,
     "title": "Public Goods and Responsibilities",
     "folder": "13-Public-Goods-and-Responsibilities",
-    "contents": []
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "13-economics-usa-public-goods-responsibility-audio-spanish-spanish.mp3",
+        "path": "/episodes/13-Public-Goods-and-Responsibilities/13-economics-usa-public-goods-responsibility-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "13-economics-usa-public-goods-responsibility-audio-spanish.pdf",
+        "path": "/episodes/13-Public-Goods-and-Responsibilities/13-economics-usa-public-goods-responsibility-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "13-economics-usa-public-goods-responsibility-audio.pdf",
+        "path": "/episodes/13-Public-Goods-and-Responsibilities/13-economics-usa-public-goods-responsibility-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "13-economics-usa-public-goods-responsibility-video-spanish-spanish.mp3",
+        "path": "/episodes/13-Public-Goods-and-Responsibilities/13-economics-usa-public-goods-responsibility-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "13-economics-usa-public-goods-responsibility-video-spanish.pdf",
+        "path": "/episodes/13-Public-Goods-and-Responsibilities/13-economics-usa-public-goods-responsibility-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "13-economics-usa-public-goods-responsibility-video.pdf",
+        "path": "/episodes/13-Public-Goods-and-Responsibilities/13-economics-usa-public-goods-responsibility-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
   },
   {
     "id": 14,
