@@ -1,0 +1,53 @@
+{
+  "title": "Economics USA - Spanish Resources",
+  "links": [
+    {
+      "text": "Video Audio RSS",
+      "href": "/economics-usa-video-spanish.rss",
+      "visible": true
+    },
+    {
+      "text": "Audio Program RSS",
+      "href": "/economics-usa-audio-spanish.rss",
+      "visible": true
+    }
+  ],
+  "structure": {
+    "tag": "BODY",
+    "text": "\n    Economics U$ASpanish Resources1. Markets6 files2. The Firm6 files3. Supply and Demand6 files4. ",
+    "children": [
+      {
+        "tag": "DIV",
+        "id": "root",
+        "text": "Economics U$ASpanish Resources1. Markets6 files2. The Firm6 files3. Supply and Demand6 files4. Perfe",
+        "children": [
+          {
+            "tag": "DIV",
+            "class": "flex h-screen overflow-hidden",
+            "text": "Economics U$ASpanish Resources1. Markets6 files2. The Firm6 files3. Supply and Demand6 files4. Perfe",
+            "children": [
+              {
+                "tag": "DIV",
+                "class": "w-80 h-screen bg-gray-50 border-r border-gray-200 overflow-y-auto",
+                "text": "Economics U$ASpanish Resources1. Markets6 files2. The Firm6 files3. Supply and Demand6 files4. Perfe",
+                "children": []
+              },
+              {
+                "tag": "DIV",
+                "class": "flex-1 flex items-center justify-center bg-gray-50",
+                "text": "Select a file to viewChoose an episode and content from the sidebar",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tag": "IMQ-FWGQAOKDUWQX",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  "mainContent": "<div class=\"flex h-screen overflow-hidden\"><div class=\"w-80 h-screen bg-gray-50 border-r border-gray-200 overflow-y-auto\"><div class=\"p-4 bg-blue-600 text-white sticky top-0\"><h1 class=\"text-xl font-bold\">Economics U$A</h1><p class=\"text-sm opacity-90\">Spanish Resources</p></div><div class=\"divide-y divide-gray-200\"><div class=\"border-b border-gray-200\"><button class=\"w-full px-4 py-3 text-left hover:bg-gray-100 transition-colors flex items-center justify-between group\"><div><div class=\"font-sem"
+}

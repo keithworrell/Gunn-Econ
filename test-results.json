@@ -1,0 +1,40 @@
+{
+  "site": "https://econ-usa.netlify.app/",
+  "timestamp": "2025-11-13T15:00:40.427Z",
+  "tests": [
+    {
+      "name": "Site loads",
+      "status": "PASS",
+      "details": "Successfully loaded homepage"
+    },
+    {
+      "name": "Navigate to Episode 1",
+      "status": "PASS",
+      "details": "Successfully clicked Episode 1 button"
+    },
+    {
+      "name": "PDF Viewer Test",
+      "status": "SKIP",
+      "details": "No PDF file buttons found"
+    },
+    {
+      "name": "Audio Player Test",
+      "status": "SKIP",
+      "details": "No audio file buttons found"
+    },
+    {
+      "name": "Episode 2 Consistency",
+      "status": "FAIL",
+      "details": "Found 0 PDFs and 0 audio files",
+      "files": []
+    },
+    {
+      "name": "Episode 10 Consistency",
+      "status": "FAIL",
+      "details": "Found 0 PDFs and 0 audio files",
+      "files": []
+    }
+  ],
+  "errors": [],
+  "networkRequests": []
+}

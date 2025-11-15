@@ -740,7 +740,50 @@
     "number": 17,
     "title": "The Great Depression and the Keynesian Revolution",
     "folder": "17-The-Great-Depression-and-the-Keynesian-Revolution",
-    "contents": []
+    "contents": [
+      {
+        "type": "audio-audio-spanish",
+        "format": "mp3",
+        "fileName": "17-economics-usa-great-depression-keynesian-audio-spanish-spanish.mp3",
+        "path": "/episodes/17-The-Great-Depression-and-the-Keynesian-Revolution/17-economics-usa-great-depression-keynesian-audio-spanish-spanish.mp3",
+        "label": "Audio de Audio (Español)"
+      },
+      {
+        "type": "audio-spanish",
+        "format": "pdf",
+        "fileName": "17-economics-usa-great-depression-keynesian-audio-spanish.pdf",
+        "path": "/episodes/17-The-Great-Depression-and-the-Keynesian-Revolution/17-economics-usa-great-depression-keynesian-audio-spanish.pdf",
+        "label": "Transcripción de Audio (Español)"
+      },
+      {
+        "type": "audio-english",
+        "format": "pdf",
+        "fileName": "17-economics-usa-great-depression-keynesian-audio.pdf",
+        "path": "/episodes/17-The-Great-Depression-and-the-Keynesian-Revolution/17-economics-usa-great-depression-keynesian-audio.pdf",
+        "label": "Audio Transcript (English)"
+      },
+      {
+        "type": "video-audio-spanish",
+        "format": "mp3",
+        "fileName": "17-economics-usa-great-depression-keynesian-video-spanish-spanish.mp3",
+        "path": "/episodes/17-The-Great-Depression-and-the-Keynesian-Revolution/17-economics-usa-great-depression-keynesian-video-spanish-spanish.mp3",
+        "label": "Audio de Video (Español)"
+      },
+      {
+        "type": "video-spanish",
+        "format": "pdf",
+        "fileName": "17-economics-usa-great-depression-keynesian-video-spanish.pdf",
+        "path": "/episodes/17-The-Great-Depression-and-the-Keynesian-Revolution/17-economics-usa-great-depression-keynesian-video-spanish.pdf",
+        "label": "Transcripción de Video (Español)"
+      },
+      {
+        "type": "video-english",
+        "format": "pdf",
+        "fileName": "17-economics-usa-great-depression-keynesian-video.pdf",
+        "path": "/episodes/17-The-Great-Depression-and-the-Keynesian-Revolution/17-economics-usa-great-depression-keynesian-video.pdf",
+        "label": "Video Transcript (English)"
+      }
+    ]
   },
   {
     "id": 18,
